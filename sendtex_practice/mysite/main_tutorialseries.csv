@@ -1,0 +1,5 @@
+id,tutorial_series,series_summary,tutorial_category_id
+1,Python Basics,Learn to do things with Python!!,1
+3,Data Analysis with Python and Pandas,Learn do data analysis with Pandas,2
+4,Data Visualization w/ Matplotlib,Visualize your data with Matplotlib,2
+5,Intermediate Python,Fundamentals that aren't basic,1
